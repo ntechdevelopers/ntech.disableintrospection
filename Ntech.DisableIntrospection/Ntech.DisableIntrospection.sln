@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ntech.DisableIntrospection", "Ntech.DisableIntrospection\Ntech.DisableIntrospection.csproj", "{C0BEF8F0-570F-49BB-B705-8C1124E01EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0BEF8F0-570F-49BB-B705-8C1124E01EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BEF8F0-570F-49BB-B705-8C1124E01EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BEF8F0-570F-49BB-B705-8C1124E01EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BEF8F0-570F-49BB-B705-8C1124E01EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D8392D5-76D4-4854-9E7F-7F2BB1BD9309}
+	EndGlobalSection
+EndGlobal
